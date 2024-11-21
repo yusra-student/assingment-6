@@ -26,7 +26,7 @@ const TopBar = () => {
         <div className="flex space-x-4">
           <a href="#" className="hover:opacity-80 transition-opacity">
             <Image
-              src="/facebook.png"
+              src="/Facebook.png"
               alt="Facebook"
               width={20}
               height={20}

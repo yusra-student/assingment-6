@@ -45,7 +45,7 @@ const Testimonials = () => {
                 {[...Array(5)].map((_, i) => (
                   <Image
                     key={i}
-                    src="/vector.png"
+                    src="/Vector.png"
                     alt="Star"
                     width={20}
                     height={19}
